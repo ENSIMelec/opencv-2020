@@ -1,5 +1,7 @@
 # opencv-2020
 
+You need first to calibrate camera to determine the distortion matrix and the camera matrix
+
 ## Dependencies
 
 - [OpenCV 4](https://pypi.org/project/opencv-python/)
